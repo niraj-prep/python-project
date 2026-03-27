@@ -1,0 +1,121 @@
+Student_ID,Department,Subject_1,Subject_2,Subject_3,Subject_4,Subject_5
+STU001,Civil,51.0,26.0,62.0,65.0,44.0
+STU002,Business,86.0,83.0,67.0,21.0,60.0
+STU003,Electrical,60.0,51.0,66.0,54.0,46.0
+STU004,Business,72.0,46.0,26.0,27.0,
+STU005,Business,61.0,23.0,62.0,45.0,79.0
+STU006,Mechanical,13.0,33.0,62.0,93.0,84.0
+STU007,Electrical,32.0,62.0,90.0,53.0,74.0
+STU008,Electrical,24.0,94.0,,26.0,35.0
+STU009,Electrical,52.0,17.0,56.0,87.0,98.0
+STU010,Business,38.0,34.0,46.0,77.0,18.0
+STU011,Civil,,38.0,74.0,94.0,19.0
+STU012,Electrical,22.0,68.0,19.0,48.0,56.0
+STU013,Business,41.0,47.0,58.0,55.0,17.0
+STU014,Mechanical,80.0,38.0,64.0,40.0,46.0
+STU015,Civil,68.0,89.0,12.0,55.0,48.0
+STU016,Mechanical,95.0,86.0,57.0,29.0,13.0
+STU017,Civil,,50.0,64.0,92.0,14.0
+STU018,Business,75.0,52.0,9.0,43.0,30.0
+STU019,Computer Science,51.0,98.0,72.0,,0.0
+STU020,Civil,54.0,39.0,10.0,68.0,53.0
+STU021,Mechanical,71.0,32.0,98.0,55.0,
+STU022,Business,66.0,96.0,51.0,43.0,15.0
+STU023,Civil,15.0,80.0,59.0,42.0,
+STU024,Computer Science,37.0,68.0,44.0,81.0,56.0
+STU025,Computer Science,37.0,49.0,56.0,56.0,74.0
+STU026,Electrical,53.0,94.0,20.0,31.0,11.0
+STU027,Electrical,93.0,75.0,17.0,74.0,73.0
+STU028,Mechanical,39.0,55.0,34.0,32.0,95.0
+STU029,Civil,71.0,47.0,23.0,42.0,15.0
+STU030,Civil,84.0,82.0,21.0,,71.0
+STU031,Electrical,98.0,47.0,67.0,36.0,75.0
+STU032,Civil,71.0,28.0,23.0,81.0,23.0
+STU033,Civil,10.0,35.0,96.0,32.0,27.0
+STU034,Computer Science,36.0,62.0,62.0,78.0,7.0
+STU035,Electrical,71.0,34.0,,38.0,91.0
+STU036,Business,86.0,22.0,94.0,68.0,35.0
+STU037,Electrical,12.0,21.0,94.0,31.0,89.0
+STU038,Business,79.0,81.0,66.0,80.0,7.0
+STU039,Computer Science,81.0,31.0,27.0,,57.0
+STU040,Mechanical,36.0,47.0,13.0,95.0,59.0
+STU041,Civil,18.0,62.0,16.0,28.0,49.0
+STU042,Computer Science,71.0,90.0,5.0,90.0,27.0
+STU043,Civil,46.0,73.0,62.0,47.0,91.0
+STU044,Mechanical,60.0,36.0,5.0,97.0,40.0
+STU045,Mechanical,53.0,44.0,38.0,71.0,99.0
+STU046,Computer Science,33.0,52.0,52.0,35.0,
+STU047,Mechanical,88.0,65.0,93.0,88.0,
+STU048,Business,68.0,68.0,5.0,31.0,62.0
+STU049,Mechanical,41.0,22.0,20.0,44.0,16.0
+STU050,Civil,97.0,41.0,65.0,71.0,72.0
+STU051,Civil,61.0,41.0,68.0,,32.0
+STU052,Civil,71.0,35.0,67.0,42.0,83.0
+STU053,Civil,,44.0,73.0,35.0,76.0
+STU054,Business,61.0,42.0,,76.0,91.0
+STU055,Electrical,21.0,78.0,97.0,58.0,28.0
+STU056,Computer Science,48.0,83.0,71.0,72.0,12.0
+STU057,Civil,11.0,75.0,80.0,61.0,45.0
+STU058,Mechanical,12.0,62.0,30.0,77.0,34.0
+STU059,Civil,65.0,33.0,20.0,58.0,5.0
+STU060,Mechanical,90.0,18.0,55.0,33.0,81.0
+STU061,Mechanical,68.0,49.0,90.0,24.0,68.0
+STU062,Civil,11.0,78.0,61.0,54.0,46.0
+STU063,Business,11.0,63.0,33.0,94.0,24.0
+STU064,Mechanical,,31.0,82.0,37.0,65.0
+STU065,Mechanical,96.0,58.0,96.0,95.0,9.0
+STU066,Civil,10.0,44.0,73.0,28.0,55.0
+STU067,Mechanical,28.0,60.0,51.0,93.0,29.0
+STU068,Mechanical,11.0,20.0,98.0,,4.0
+STU069,Civil,62.0,51.0,66.0,36.0,32.0
+STU070,Civil,53.0,38.0,,26.0,64.0
+STU071,Computer Science,99.0,60.0,80.0,65.0,17.0
+STU072,Business,41.0,67.0,20.0,32.0,95.0
+STU073,Business,79.0,74.0,94.0,59.0,48.0
+STU074,Mechanical,41.0,77.0,94.0,61.0,10.0
+STU075,Business,77.0,99.0,52.0,28.0,84.0
+STU076,Mechanical,64.0,46.0,89.0,69.0,25.0
+STU077,Computer Science,84.0,47.0,43.0,46.0,62.0
+STU078,Civil,65.0,81.0,37.0,85.0,88.0
+STU079,Civil,26.0,32.0,98.0,24.0,85.0
+STU080,Civil,47.0,39.0,27.0,48.0,58.0
+STU081,Business,33.0,68.0,14.0,56.0,26.0
+STU082,Computer Science,,72.0,73.0,57.0,48.0
+STU083,Business,79.0,81.0,38.0,27.0,76.0
+STU084,Business,95.0,60.0,56.0,84.0,32.0
+STU085,Computer Science,20.0,38.0,99.0,36.0,97.0
+STU086,Computer Science,25.0,46.0,14.0,90.0,98.0
+STU087,Computer Science,82.0,61.0,23.0,64.0,0.0
+STU088,Computer Science,68.0,37.0,,23.0,20.0
+STU089,Civil,79.0,80.0,5.0,55.0,54.0
+STU090,Electrical,89.0,41.0,73.0,89.0,5.0
+STU091,Electrical,12.0,16.0,8.0,50.0,91.0
+STU092,Computer Science,29.0,31.0,,38.0,80.0
+STU093,Electrical,68.0,47.0,28.0,80.0,68.0
+STU094,Electrical,,23.0,84.0,73.0,94.0
+STU095,Computer Science,28.0,57.0,6.0,58.0,4.0
+STU096,Electrical,99.0,62.0,,93.0,2.0
+STU097,Business,76.0,53.0,36.0,38.0,52.0
+STU098,Mechanical,28.0,,95.0,58.0,22.0
+STU099,Mechanical,29.0,40.0,88.0,86.0,52.0
+STU100,Computer Science,80.0,64.0,28.0,64.0,36.0
+STU101,Civil,61.0,39.0,16.0,32.0,73.0
+STU102,Computer Science,42.0,38.0,54.0,77.0,73.0
+STU103,Civil,49.0,27.0,39.0,39.0,82.0
+STU104,Mechanical,48.0,74.0,37.0,91.0,16.0
+STU105,Computer Science,91.0,21.0,37.0,80.0,84.0
+STU106,Business,10.0,71.0,65.0,58.0,77.0
+STU107,Electrical,20.0,50.0,55.0,,72.0
+STU108,Civil,66.0,59.0,47.0,22.0,0.0
+STU109,Electrical,98.0,34.0,16.0,96.0,50.0
+STU110,Electrical,59.0,79.0,71.0,81.0,44.0
+STU111,Computer Science,32.0,22.0,69.0,82.0,76.0
+STU112,Electrical,40.0,30.0,,44.0,3.0
+STU113,Business,51.0,28.0,44.0,,61.0
+STU114,Electrical,16.0,90.0,78.0,52.0,64.0
+STU115,Computer Science,25.0,29.0,,57.0,31.0
+STU116,Business,99.0,80.0,48.0,25.0,33.0
+STU117,Mechanical,69.0,46.0,33.0,77.0,91.0
+STU118,Electrical,11.0,77.0,17.0,63.0,94.0
+STU119,Computer Science,10.0,65.0,16.0,64.0,71.0
+STU120,Mechanical,57.0,39.0,99.0,51.0,38.0
