@@ -1,22 +1,46 @@
-Student_ID,Department,Subject_1,Subject_2,Subject_3,Subject_4,Subject_5,Total_Marks,Percentage,GPA
-STU004,Business,72.0,46.0,26.0,27.0,0.0,171.0,34.2,1.368
-STU008,Electrical,24.0,94.0,0.0,26.0,35.0,179.0,35.8,1.432
-STU023,Civil,15.0,80.0,59.0,42.0,0.0,196.0,39.2,1.568
-STU029,Civil,71.0,47.0,23.0,42.0,15.0,198.0,39.6,1.584
-STU039,Computer Science,81.0,31.0,27.0,0.0,57.0,196.0,39.2,1.568
-STU041,Civil,18.0,62.0,16.0,28.0,49.0,173.0,34.6,1.3840000000000001
-STU046,Computer Science,33.0,52.0,52.0,35.0,0.0,172.0,34.4,1.376
-STU049,Mechanical,41.0,22.0,20.0,44.0,16.0,143.0,28.6,1.1440000000000001
-STU059,Civil,65.0,33.0,20.0,58.0,5.0,181.0,36.2,1.4480000000000002
-STU068,Mechanical,11.0,20.0,98.0,0.0,4.0,133.0,26.6,1.064
-STU070,Civil,53.0,38.0,0.0,26.0,64.0,181.0,36.2,1.4480000000000002
-STU081,Business,33.0,68.0,14.0,56.0,26.0,197.0,39.4,1.5759999999999998
-STU088,Computer Science,68.0,37.0,0.0,23.0,20.0,148.0,29.6,1.1840000000000002
-STU091,Electrical,12.0,16.0,8.0,50.0,91.0,177.0,35.4,1.416
-STU092,Computer Science,29.0,31.0,0.0,38.0,80.0,178.0,35.6,1.4240000000000002
-STU095,Computer Science,28.0,57.0,6.0,58.0,4.0,153.0,30.6,1.224
-STU107,Electrical,20.0,50.0,55.0,0.0,72.0,197.0,39.4,1.5759999999999998
-STU108,Civil,66.0,59.0,47.0,22.0,0.0,194.0,38.8,1.5519999999999998
-STU112,Electrical,40.0,30.0,0.0,44.0,3.0,117.0,23.4,0.9359999999999999
-STU113,Business,51.0,28.0,44.0,0.0,61.0,184.0,36.8,1.472
-STU115,Computer Science,25.0,29.0,0.0,57.0,31.0,142.0,28.4,1.136
+Roll No,Name of Student,Section,Percentage,GPA,Absent_Count,Weak_Subject_Count,Weak_Subjects
+CS25D017,Rutika C. Naktode,A,0.0,0.0,5,5,"Statistics & Probability, Object Oriented Programming, Operating Systems, Business Communication, Data Analysis and Visualization"
+CS24210,Kaneeshka Pranay Nikose,D,6.04,0.6,3,6,"Statistics & Probability, Object Oriented Programming, Operating Systems, Business Communication, Sensors and Actuators, Operation Research"
+CS24005,Anmol Suryaprakash Tiwari,A,11.88,1.19,3,6,"Statistics & Probability, Object Oriented Programming, Operating Systems, Business Communication, Sensors and Actuators, Operation Research"
+CS24004,Amey Anil Patil,A,15.21,1.52,0,6,"Statistics & Probability, Object Oriented Programming, Operating Systems, Business Communication, Sensors and Actuators, Operation Research"
+CS24002,Akanksha Jitendra Wasnik,A,17.29,1.73,0,6,"Statistics & Probability, Object Oriented Programming, Operating Systems, Business Communication, Data Analysis and Visualization, Wireless Sensor Network"
+CS24003,Aman Tejram Gaikwad,A,17.5,1.75,0,6,"Statistics & Probability, Object Oriented Programming, Operating Systems, Business Communication, Fundamentals of Accounting, Operation Research"
+CS24034,Rehan Aslam Sheikh,A,19.38,1.94,1,5,"Statistics & Probability, Object Oriented Programming, Operating Systems, Sensors and Actuators, Wireless Sensor Network"
+CS24116,Sukanya Suresh Raut,B,25.5,2.55,3,3,"Object Oriented Programming, Operating Systems, Data Analysis and Visualization"
+CS24161,Pavan Dharmaraj Lahabar,C,26.25,2.62,0,4,"Object Oriented Programming, Operating Systems, Sensors and Actuators, Wireless Sensor Network"
+CS24090,Lakshansh Ranjit Gawate,B,27.5,2.75,0,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Operation Research"
+CS24082,Harshal Nandkishor Kunthale,B,28.33,2.83,0,5,"Statistics & Probability, Object Oriented Programming, Operating Systems, Sensors and Actuators, Wireless Sensor Network"
+CS24017,Krish Vijay Tandekar,A,28.54,2.85,0,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Wireless Sensor Network"
+CS24228,Rohit Vitthal Tingane,D,29.75,2.98,0,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Data Analysis and Visualization"
+CS24024,Nandini Dnyaneshwar Dhote,A,29.79,2.98,0,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Game Development Using Python"
+CS24208,Harshwardhan Ajay Shirke,D,29.79,2.98,0,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Wireless Sensor Network"
+CS24075,Bhavesh Chandrakant Ganorkar,B,30.42,3.04,1,3,"Object Oriented Programming, Operating Systems, Business Communication"
+CS24133,Anvay Atish Walde,C,30.62,3.06,0,5,"Statistics & Probability, Object Oriented Programming, Operating Systems, Data Analysis and Visualization, Operation Research"
+CS24052,Tanvesh Ravi Punekar,A,31.04,3.1,0,5,"Statistics & Probability, Object Oriented Programming, Operating Systems, Business Communication, Sensors and Actuators"
+CS24143,Gagan Rakesh Jain,C,31.25,3.12,0,4,"Statistics & Probability, Object Oriented Programming, Sensors and Actuators, Operation Research"
+CS24119,Tanishq Vilas Telute,B,31.88,3.19,0,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Operation Research"
+CS24033,Rajat Ravindra Gaikwad,A,32.29,3.23,0,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Sensors and Actuators"
+CS24030,Pritam Gajanan Helonde,A,32.71,3.27,0,3,"Statistics & Probability, Object Oriented Programming, Operating Systems"
+CS24174,Sheikh Arman Farhat,C,33.5,3.35,0,3,"Statistics & Probability, Operating Systems, Sensors and Actuators"
+CS24224,Purva Tulshiram Bonsule,D,33.54,3.35,0,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Sensors and Actuators"
+CS24016,Kavya Gopal Dhengare,A,34.0,3.4,0,3,"Statistics & Probability, Object Oriented Programming, Operating Systems"
+CS24074,Ayush Rajan Jaiswal,B,34.0,3.4,0,3,"Object Oriented Programming, Operating Systems, Sensors and Actuators"
+CS24027,Om Vinod Panchbhai,A,34.17,3.42,0,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Sensors and Actuators"
+CS24049,Swanandi Vikas Gawate,A,35.5,3.55,0,3,"Statistics & Probability, Object Oriented Programming, Operating Systems"
+CS25D013,Palak Mohan Ajmire,A,35.83,3.58,1,3,"Statistics & Probability, Object Oriented Programming, Game Development Using Python"
+CS24096,Nihar Vijay Arora,B,36.25,3.62,0,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Sensors and Actuators"
+CS24031,Priyansh Shyamsundar Shukla,A,36.46,3.65,0,3,"Statistics & Probability, Operating Systems, Wireless Sensor Network"
+CS24022,Mithilesh Pramod Dhoble,A,36.88,3.69,0,3,"Statistics & Probability, Object Oriented Programming, Operation Research"
+CS24054,Utkarsh Satyeshwar Kene,A,37.5,3.75,0,2,"Object Oriented Programming, Operating Systems"
+CS24081,Harsh Sharma,B,37.92,3.79,1,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Operation Research"
+CS24178,Siddhi Mukesh Nikhare,C,37.92,3.79,0,4,"Object Oriented Programming, Operating Systems, Data Analysis and Visualization, Operation Research"
+CS24063,Yash Snehdeep Mankar,A,38.12,3.81,0,3,"Statistics & Probability, Object Oriented Programming, Operating Systems"
+CS24055,Utkarsh Rajendra Burande,A,38.33,3.83,0,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Electric Vehicle"
+CS24207,Harsh Gajanan Thakre,D,38.5,3.85,0,3,"Statistics & Probability, Object Oriented Programming, Operating Systems"
+CS24097,Niharika Sharma,B,38.54,3.85,0,4,"Statistics & Probability, Operating Systems, Sensors and Actuators, Operation Research"
+CS24064,Aayushi Pravin Shelwatkar,B,38.75,3.88,0,3,"Statistics & Probability, Object Oriented Programming, Operating Systems"
+CS24173,Sawan Prakash Chavhan,C,38.96,3.9,0,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Sensors and Actuators"
+CS25D025,Trupti Shilanand Hadke,A,38.96,3.9,0,3,"Statistics & Probability, Object Oriented Programming, Operating Systems"
+CS24146,Harshwardhan Mahadeorao Dhobale,C,39.38,3.94,0,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Operation Research"
+CS24041,Sanchit Manojdas Mahant,A,39.58,3.96,0,3,"Statistics & Probability, Object Oriented Programming, Operating Systems"
+CS24001,Abhishek Nityanand Raut,A,39.58,3.96,0,2,"Object Oriented Programming, Operating Systems"
