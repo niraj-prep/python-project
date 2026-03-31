@@ -1,0 +1,274 @@
+Sr. No.,Roll No,Name of Student,Section,Statistics & Probability,Object Oriented Programming,Operating Systems,Business Communication,Data Analysis and Visualization,Fundamentals of Accounting,Sensors and Actuators,Basics Of Human Computer Interaction,Electric Vehicle,Game Development Using Python,Operation Research,Wireless Sensor Network,Absent_Count,Percentage,GPA,Weak_Subject_Count,Weak_Subjects,At_Risk
+1,CS24001,Abhishek Nityanand Raut,A,18.5,10.0,8.0,9.0,22.0,,,,,,,18.5,0,39.58,3.96,2,"Object Oriented Programming, Operating Systems",True
+2,CS24002,Akanksha Jitendra Wasnik,A,6.0,4.0,2.0,6.5,10.0,,,,,,,6.5,0,17.29,1.73,6,"Statistics & Probability, Object Oriented Programming, Operating Systems, Business Communication, Data Analysis and Visualization, Wireless Sensor Network",True
+3,CS24003,Aman Tejram Gaikwad,A,6.5,4.0,3.0,5.5,,13.5,,,,,4.0,,0,17.5,1.75,6,"Statistics & Probability, Object Oriented Programming, Operating Systems, Business Communication, Fundamentals of Accounting, Operation Research",True
+4,CS24004,Amey Anil Patil,A,10.5,2.0,5.0,4.0,,,1.5,,,,8.0,,0,15.21,1.52,6,"Statistics & Probability, Object Oriented Programming, Operating Systems, Business Communication, Sensors and Actuators, Operation Research",True
+5,CS24005,Anmol Suryaprakash Tiwari,A,3.5,0.0,0.0,7.5,,,5.0,,,,0.0,,3,11.88,1.19,6,"Statistics & Probability, Object Oriented Programming, Operating Systems, Business Communication, Sensors and Actuators, Operation Research",True
+6,CS24006,Ayush Sheshrao Bansod,A,23.0,17.0,13.0,10.5,,,11.0,,,,,,0,48.0,4.8,1,Operating Systems,False
+7,CS24007,Ayush Krishna Thakre,A,21.0,14.0,12.0,14.5,,32.5,,,,,,,0,54.25,5.42,2,"Object Oriented Programming, Operating Systems",False
+8,CS24009,Gauri Sanjay Jaiswal,A,16.5,18.0,16.0,13.5,32.0,,,,,,,28.0,0,57.29,5.73,0,None,False
+9,CS24010,Harsh Vinod Bhagat,A,13.0,12.0,16.0,11.5,,,10.0,,,27.0,,,0,46.25,4.62,2,"Statistics & Probability, Object Oriented Programming",False
+10,CS24011,Himani Ramakant Charduke,A,27.0,21.0,20.0,13.0,,,10.0,,32.5,,,,0,61.04,6.1,0,None,False
+11,CS24012,Irfan Pirkhan Pathan,A,4.0,9.0,20.0,11.5,,,12.5,,,23.0,,,0,43.33,4.33,2,"Statistics & Probability, Object Oriented Programming",False
+12,CS24013,Isha Mohanrao Dahake,A,19.5,16.0,16.0,12.5,,21.0,,,,20.5,,,0,49.17,4.92,0,None,False
+13,CS24014,Ishant Ishwar Gabhane,A,13.5,8.0,12.0,13.0,31.0,,,,,,,,0,45.25,4.53,3,"Statistics & Probability, Object Oriented Programming, Operating Systems",False
+14,CS24015,Kashish Sharif Kazi,A,27.5,13.0,6.5,15.0,37.0,,,,,21.5,,,0,56.46,5.65,2,"Object Oriented Programming, Operating Systems",False
+15,CS24016,Kavya Gopal Dhengare,A,7.5,13.0,5.0,13.0,,16.5,,,,,,,0,34.0,3.4,3,"Statistics & Probability, Object Oriented Programming, Operating Systems",True
+16,CS24017,Krish Vijay Tandekar,A,8.0,10.0,6.0,10.0,16.0,,,,,,,8.5,0,28.54,2.85,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Wireless Sensor Network",True
+17,CS24018,Krushnali Sunil Ingale,A,24.5,8.0,19.0,15.0,33.0,,,,,27.5,,,0,59.17,5.92,1,Object Oriented Programming,False
+18,CS24019,Mangesh Sanjay Dhawde,A,36.5,18.0,23.0,9.5,,,9.0,,,,,,0,57.25,5.72,0,None,False
+19,CS24020,Mausam Pravin Siriah,A,22.5,16.0,11.0,11.0,22.0,,,,,,,,0,46.75,4.68,1,Operating Systems,False
+20,CS24021,Mayur Sanjay Dhoke,A,22.5,10.0,19.0,11.0,,,11.0,,,,5.0,,0,41.88,4.19,2,"Object Oriented Programming, Operation Research",False
+21,CS24022,Mithilesh Pramod Dhoble,A,7.5,10.0,16.0,12.0,24.0,,,,,,7.0,,0,36.88,3.69,3,"Statistics & Probability, Object Oriented Programming, Operation Research",True
+22,CS24024,Nandini Dnyaneshwar Dhote,A,12.5,5.0,11.0,9.0,,,8.5,,,8.0,,,0,29.79,2.98,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Game Development Using Python",True
+23,CS24025,Niraj Milind Yawalkar,A,17.0,12.0,11.0,9.0,32.0,,,,,,,,0,45.0,4.5,2,"Object Oriented Programming, Operating Systems",False
+24,CS24026,Nupur Suresh Nag,A,32.5,21.0,22.0,11.5,37.0,,,,,,,,0,67.75,6.78,0,None,False
+25,CS24027,Om Vinod Panchbhai,A,10.0,11.0,6.0,10.5,,,5.0,,,,,24.0,0,34.17,3.42,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Sensors and Actuators",True
+26,CS24028,Prachi Suresh Narekar,A,20.0,13.0,8.0,9.5,,,13.0,,,,,,0,43.0,4.3,2,"Object Oriented Programming, Operating Systems",False
+27,CS24029,Pratiksha Subhash-Jambhulkar,A,16.0,10.0,16.0,13.5,,16.5,,,,,,,0,42.75,4.28,1,Object Oriented Programming,False
+28,CS24030,Pritam Gajanan Helonde,A,3.5,10.0,12.0,10.5,,,8.0,,16.0,,,,0,32.71,3.27,3,"Statistics & Probability, Object Oriented Programming, Operating Systems",True
+29,CS24031,Priyansh Shyamsundar Shukla,A,9.5,16.0,7.0,8.5,25.0,,,,,,,13.0,0,36.46,3.65,3,"Statistics & Probability, Operating Systems, Wireless Sensor Network",True
+30,CS24032,Priyanshu Pramod Dahat,A,13.0,16.0,17.0,16.5,28.0,,,,,,,,0,53.5,5.35,1,Statistics & Probability,False
+31,CS24033,Rajat Ravindra Gaikwad,A,15.5,10.0,7.0,11.5,,,1.0,,,20.0,,,0,32.29,3.23,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Sensors and Actuators",True
+32,CS24034,Rehan Aslam Sheikh,A,0.0,10.0,6.0,8.0,,,4.0,,,,,6.5,1,19.38,1.94,5,"Statistics & Probability, Object Oriented Programming, Operating Systems, Sensors and Actuators, Wireless Sensor Network",True
+33,CS24035,Riddhi Manoj Barole,A,33.0,9.0,11.0,17.0,,33.5,,19.0,,,,,0,58.12,5.81,2,"Object Oriented Programming, Operating Systems",False
+34,CS24036,Rushita Pannalal Limje,A,25.5,18.0,22.0,16.0,36.0,,,,,,,,0,66.75,6.68,0,None,False
+35,CS24037,Sahil Suryawanshi,A,15.5,16.0,13.0,14.5,,13.5,,,,18.0,,,0,43.75,4.38,3,"Statistics & Probability, Operating Systems, Fundamentals of Accounting",False
+36,CS24038,Sahil Rakesh Khobragade,A,27.5,18.0,11.0,11.5,16.0,,,,,,,,0,47.75,4.78,1,Operating Systems,False
+37,CS24039,Sakshi Purushottam Yadav,A,25.5,13.0,16.0,15.5,,,9.5,22.0,,24.0,,6.5,0,49.06,4.91,2,"Object Oriented Programming, Wireless Sensor Network",False
+38,CS24040,Sampada Lalchand Borkar,A,13.0,15.5,21.0,16.0,,,9.5,,,,,,0,50.25,5.03,2,"Statistics & Probability, Object Oriented Programming",False
+39,CS24041,Sanchit Manojdas Mahant,A,4.5,13.5,9.0,11.5,22.0,,,,,23.0,,,0,39.58,3.96,3,"Statistics & Probability, Object Oriented Programming, Operating Systems",True
+40,CS24042,Saniya Mulchand Shahu,A,13.5,19.0,18.0,12.0,,,14.0,,,20.0,,,0,51.04,5.1,1,Statistics & Probability,False
+41,CS24043,Shivam Vijay Ingale,A,18.0,7.0,12.0,12.5,36.0,,,,,,,,0,49.0,4.9,2,"Object Oriented Programming, Operating Systems",False
+42,CS24044,Shreya Wasnik,A,19.5,16.0,23.0,14.0,30.0,,,,30.5,,,,0,61.25,6.12,0,None,False
+43,CS24045,Shweta Vinay Mishra,A,12.0,19.0,17.0,15.0,,,16.0,,,,,,0,55.0,5.5,1,Statistics & Probability,False
+44,CS24046,Sonu Tulsi Rana,A,24.0,17.0,17.0,9.5,,,13.0,,22.0,,,,0,52.08,5.21,0,None,False
+45,CS24047,Sumaira Anjum Nakeeb Sheikh Ansari,A,15.5,18.0,18.0,14.5,,,11.5,,,20.0,,,0,51.46,5.15,1,Statistics & Probability,False
+46,CS24048,Sumit Gajanan Sawant,A,29.0,21.0,17.0,13.0,33.0,,,,,,12.0,,0,57.5,5.75,1,Operation Research,False
+47,CS24049,Swanandi Vikas Gawate,A,9.0,10.0,4.0,11.5,25.0,,,,,,,,0,35.5,3.55,3,"Statistics & Probability, Object Oriented Programming, Operating Systems",True
+48,CS24050,Tanishq Alok Gupta,A,16.0,18.0,14.0,13.0,,26.0,,,,,,19.0,0,49.58,4.96,1,Operating Systems,False
+49,CS24051,Tanuja Krushna Choudhari,A,25.0,18.0,11.0,13.5,,,13.0,,,,,10.5,0,48.96,4.9,2,"Operating Systems, Wireless Sensor Network",False
+50,CS24052,Tanvesh Ravi Punekar,A,11.0,12.0,6.0,7.0,,,6.0,,,,,19.5,0,31.04,3.1,5,"Statistics & Probability, Object Oriented Programming, Operating Systems, Business Communication, Sensors and Actuators",True
+51,CS24054,Utkarsh Satyeshwar Kene,A,16.5,12.0,9.0,9.5,,18.5,,,,,,,0,37.5,3.75,2,"Object Oriented Programming, Operating Systems",True
+52,CS24055,Utkarsh Rajendra Burande,A,5.0,13.0,9.0,12.0,26.0,,,,15.0,,,,0,38.33,3.83,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Electric Vehicle",True
+53,CS24056,Vaibhav Arun Sembekar,A,28.5,27.0,17.0,12.0,,,15.0,,,21.0,,,0,61.46,6.15,0,None,False
+54,CS24057,Vaibhavkumar S. Pandey,A,19.0,13.0,11.0,14.5,29.0,,,,,,34.0,,0,56.25,5.62,2,"Object Oriented Programming, Operating Systems",False
+55,CS24058,Vanya Gupta,A,39.5,35.0,19.0,17.0,39.0,,,,,,,25.5,0,80.0,8.0,0,None,False
+56,CS24059,Vedshree Rajesh Satpude,A,16.0,16.0,12.0,14.0,,,11.0,,,,,,0,47.0,4.7,1,Operating Systems,False
+57,CS24060,Vedant Nandkishor Behare,A,25.5,29.0,20.0,11.5,,,15.0,,24.0,,,,0,63.12,6.31,0,None,False
+58,CS24061,Vedant Sanjay Hanwate,A,22.5,14.0,7.0,14.5,,22.0,,,29.0,,,,0,51.46,5.15,2,"Object Oriented Programming, Operating Systems",False
+59,CS24062,Vinit Chakradhar Gharad,A,20.5,18.0,16.0,15.0,,,13.0,,,,,,0,55.25,5.52,0,None,False
+60,CS24063,Yash Snehdeep Mankar,A,7.5,12.0,6.0,11.0,,19.0,,,,25.0,,,0,38.12,3.81,3,"Statistics & Probability, Object Oriented Programming, Operating Systems",True
+61,CS25D004,Darshan Raju Lad,A,14.0,20.0,17.0,13.0,32.0,,,,,26.0,,,0,56.25,5.62,1,Statistics & Probability,False
+62,CS25D006,Dushant Suresh Sewatkar,A,16.0,35.0,16.0,13.5,,28.5,,,,24.0,,,0,61.04,6.1,0,None,False
+63,CS25D012,Palak Brajesh Bedi,A,16.0,16.0,12.0,16.0,33.0,,,,,21.0,,,0,54.17,5.42,1,Operating Systems,False
+64,CS25D013,Palak Mohan Ajmire,A,6.0,13.0,16.0,11.0,29.0,,,,,0.0,,,1,35.83,3.58,3,"Statistics & Probability, Object Oriented Programming, Game Development Using Python",True
+65,CS25D017,Rutika C. Naktode,A,0.0,0.0,0.0,0.0,0.0,,,,,,,,5,0.0,0.0,5,"Statistics & Probability, Object Oriented Programming, Operating Systems, Business Communication, Data Analysis and Visualization",True
+66,CS25D018,Sachi Vilas Gundawar,A,22.0,23.0,18.0,15.5,,,10.0,28.0,,,,,0,59.17,5.92,0,None,False
+67,CS25D019,Sarvswi Tejram Wahane,A,10.0,13.0,16.0,11.0,27.0,,,,,19.0,,,0,44.58,4.46,2,"Statistics & Probability, Object Oriented Programming",False
+68,CS25D025,Trupti Shilanand Hadke,A,9.5,6.0,10.0,14.5,18.0,,,,,21.0,,,0,38.96,3.9,3,"Statistics & Probability, Object Oriented Programming, Operating Systems",True
+69,EE24TCS001,Mayan Khobragade,A,29.5,25.0,13.0,12.0,29.0,,,,,,16.0,,0,56.88,5.69,1,Operating Systems,False
+1,CS24064,Aayushi Pravin Shelwatkar,B,7.5,13.0,13.0,11.5,17.0,,,,19.5,,,,0,38.75,3.88,3,"Statistics & Probability, Object Oriented Programming, Operating Systems",True
+2,CS24065,Achal Sanjay Tarane,B,28.0,26.0,10.0,11.0,,,15.0,,,,,17.5,0,55.62,5.56,1,Operating Systems,False
+3,CS24066,Aditya Prashant Thakre,B,24.5,28.0,19.0,13.5,,,18.5,,32.0,,,,0,69.79,6.98,0,None,False
+4,CS24067,Aishwarya Dudhane,B,22.5,17.0,13.0,18.0,29.0,,,24.0,,,,,0,58.96,5.9,1,Operating Systems,False
+5,CS24068,Aman Akhilesh Singh,B,7.0,19.0,16.0,17.5,,32.0,,,,,16.0,,0,52.08,5.21,1,Statistics & Probability,False
+6,CS24069,Anshika Jagdish Masand,B,21.0,18.0,19.0,16.0,,,15.0,,,,,,0,60.0,6.0,0,None,False
+7,CS24070,Arif Mo. Ahsan Ansari,B,30.5,28.0,32.0,13.5,,,16.5,,,,,,0,75.25,7.52,0,None,False
+8,CS24071,Arnav Raju Bhoyar,B,5.5,21.0,18.0,17.0,22.0,,,,,,9.5,,0,45.83,4.58,2,"Statistics & Probability, Operation Research",False
+9,CS24072,Arushi Demendra Rahangdale,B,16.0,20.0,17.0,14.5,16.0,,,,,,,16.5,0,47.71,4.77,0,None,False
+10,CS24073,Ayush Bapurav Masmare,B,18.0,18.0,13.0,16.5,,,15.5,,,,,27.0,0,58.33,5.83,1,Operating Systems,False
+11,CS24074,Ayush Rajan Jaiswal,B,16.0,11.0,13.0,14.0,,,0.0,,,,,,0,34.0,3.4,3,"Object Oriented Programming, Operating Systems, Sensors and Actuators",True
+12,CS24075,Bhavesh Chandrakant Ganorkar,B,16.0,11.0,6.0,0.0,,16.0,,,,24.0,,,1,30.42,3.04,3,"Object Oriented Programming, Operating Systems, Business Communication",True
+13,CS24076,Bhavi Jitendra Thakkar,B,12.0,22.0,11.0,16.5,,,9.5,18.0,,,,,0,47.92,4.79,2,"Statistics & Probability, Operating Systems",False
+14,CS24077,Deepakshi Santosh Funde,B,16.5,23.0,17.0,14.0,31.0,,,22.0,,,,,0,57.29,5.73,0,None,False
+15,CS24078,Dilpreet Kaur Jasvinder Singh Lubana,B,31.5,22.0,18.0,14.0,31.0,,,,20.5,,,,0,62.92,6.29,0,None,False
+16,CS24079,Diya Bhagwan Singh Rajput,B,24.0,30.0,24.0,19.0,,,11.5,,,,,,0,69.5,6.95,0,None,False
+17,CS24080,Harsh Siddharth Dahat,B,16.0,16.0,14.0,15.0,,27.5,,,,,,,0,51.75,5.18,1,Operating Systems,False
+18,CS24081,Harsh Sharma,B,12.0,10.0,13.0,14.5,27.0,,,,,,0.0,,1,37.92,3.79,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Operation Research",True
+19,CS24082,Harshal Nandkishor Kunthale,B,10.5,13.0,7.0,10.0,,,2.5,,,,,12.5,0,28.33,2.83,5,"Statistics & Probability, Object Oriented Programming, Operating Systems, Sensors and Actuators, Wireless Sensor Network",True
+20,CS24083,Harshika Dineshrao Deshmukh,B,18.0,33.0,26.0,17.0,,,15.5,33.0,,,,,0,72.92,7.29,0,None,False
+21,CS24084,Harshit Anup Rawat,B,23.5,28.0,22.0,14.5,28.0,,,13.0,,,,,0,59.79,5.98,1,Basics Of Human Computer Interaction,False
+22,CS24085,Harshwardhan Shyam Nimbekar,B,12.5,19.0,14.0,16.0,,,5.0,,,,9.0,,0,40.21,4.02,4,"Statistics & Probability, Operating Systems, Sensors and Actuators, Operation Research",False
+23,CS24086,Himanshu Pramod Dalal,B,5.5,19.0,17.0,14.0,,,7.5,,20.0,,,,0,43.54,4.35,2,"Statistics & Probability, Sensors and Actuators",False
+24,CS24087,Ishita Pandey,B,29.0,26.0,13.0,17.0,,,10.5,,,,,,0,61.5,6.15,1,Operating Systems,False
+25,CS24088,Jai Jagdish Telute,B,24.5,30.0,18.0,16.5,29.0,,,,,,,,0,67.25,6.72,0,None,False
+26,CS24089,Khushi Teniram Bhakte,B,26.5,16.0,25.0,14.0,,,15.5,,,,,,0,63.25,6.32,0,None,False
+27,CS24090,Lakshansh Ranjit Gawate,B,0.0,13.0,6.0,10.0,18.0,,,,,,9.0,,0,27.5,2.75,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Operation Research",True
+28,CS24091,Manish Hemraj Kathane,B,35.0,31.0,24.0,17.0,,,15.5,,,,,,0,77.5,7.75,0,None,False
+29,CS24092,Manjiri Mangesh Chore,B,18.0,21.0,16.0,15.0,,,12.5,20.0,,,,,0,54.17,5.42,0,None,False
+30,CS24093,Mehak Ram Sharma,B,5.0,17.0,18.0,16.5,,,12.5,,,,,28.0,0,52.5,5.25,1,Statistics & Probability,False
+31,CS24094,Mitakshree Kishore Lonare,B,26.0,18.0,14.0,18.0,,,12.5,,,,,,0,59.5,5.95,1,Operating Systems,False
+32,CS24095,Navika Vijendra Sawarkar,B,18.0,18.0,15.0,16.5,,,12.0,,23.5,,,,0,54.79,5.48,1,Operating Systems,False
+33,CS24096,Nihar Vijay Arora,B,9.0,14.0,15.0,10.5,,,6.0,,,,16.0,,0,36.25,3.62,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Sensors and Actuators",True
+34,CS24097,Niharika Sharma,B,12.5,16.0,8.0,17.0,,,7.5,,,,7.0,,0,38.54,3.85,4,"Statistics & Probability, Operating Systems, Sensors and Actuators, Operation Research",True
+35,CS24098,Nirajkumar Vidyasagar Singh,B,16.0,25.0,22.0,16.5,,,16.5,,,,,,0,64.5,6.45,0,None,False
+36,CS24099,Pranay Shriniwas Aknurwar,B,24.5,36.0,22.0,16.5,33.0,,,,,,,,0,74.25,7.42,0,None,False
+37,CS24100,Pravesh Bhupendra Chauhan,B,21.5,29.0,15.0,16.0,32.0,,,,,,,,0,64.75,6.48,1,Operating Systems,False
+38,CS24101,Prem Sanjay Uprete,B,16.0,11.0,19.0,14.0,,14.5,,,,,12.0,,0,41.88,4.19,3,"Object Oriented Programming, Fundamentals of Accounting, Operation Research",False
+39,CS24102,Prerna Radheshyam Kakuniya,B,7.0,17.0,8.0,12.5,,,13.0,,,,,25.0,0,45.0,4.5,2,"Statistics & Probability, Operating Systems",False
+40,CS24103,Pushkar Balaji Parate,B,11.0,20.0,21.0,14.5,,,15.0,,,,,,0,55.5,5.55,1,Statistics & Probability,False
+41,CS24104,Rahul Vilas Koltewar,B,18.0,17.0,10.0,11.0,,,5.5,,19.5,,,,0,40.62,4.06,2,"Operating Systems, Sensors and Actuators",False
+42,CS24105,Ritika Suresh Wadaskar,B,29.5,19.0,17.0,17.5,,,19.0,27.0,,,,,0,68.96,6.9,0,None,False
+43,CS24106,Sahil C. Bhiwankar,B,32.5,39.0,31.0,16.5,,,18.5,,,,,,0,86.25,8.62,0,None,False
+44,CS24107,Sakshi Yuvraj Dahake,B,32.0,26.0,22.0,13.5,,,18.5,29.0,,,,,0,72.08,7.21,0,None,False
+45,CS24108,Saloni Prashant Urkude,B,20.5,29.0,25.0,16.5,,,16.0,31.0,,,,,0,71.04,7.1,0,None,False
+46,CS24109,Saloni Sanjay Dhoble,B,23.0,25.0,16.0,19.0,37.0,,,,,,,,0,69.5,6.95,0,None,False
+47,CS24110,Sameer Moharramali Khan,B,27.5,21.0,20.0,14.5,,,11.0,,,,,,0,59.75,5.98,0,None,False
+48,CS24111,Shivraj Rahul Deshmukh,B,6.5,13.0,12.0,13.5,25.0,,,,,,,,0,41.75,4.18,3,"Statistics & Probability, Object Oriented Programming, Operating Systems",False
+49,CS24112,Om Muneshwar Lute,B,9.5,16.0,14.0,12.0,21.0,,,,,,,20.0,0,43.54,4.35,2,"Statistics & Probability, Operating Systems",False
+50,CS24113,Shrawani Somnath Waghulkar,B,26.5,21.0,20.0,15.0,,,9.0,,,,,,0,57.75,5.78,0,None,False
+51,CS24114,Shrawani Nilesh Pawar,B,21.5,23.0,13.0,18.0,,,10.0,23.0,,,,,0,56.88,5.69,1,Operating Systems,False
+52,CS24115,Suhani Pavankumar Pandey,B,16.0,26.0,23.0,17.5,36.0,,,,,,16.0,,0,63.33,6.33,0,None,False
+53,CS24116,Sukanya Suresh Raut,B,22.0,0.0,0.0,14.5,0.0,,,,,,,,3,25.5,2.55,3,"Object Oriented Programming, Operating Systems, Data Analysis and Visualization",True
+54,CS24117,Sukhraj Singh Bhatia,B,17.5,32.0,17.0,20.0,36.0,,,28.0,,,,,0,71.04,7.1,0,None,False
+55,CS24118,Sunidhi Arun Wath,B,16.5,25.0,17.0,18.5,,,6.0,27.0,,,,,0,56.04,5.6,1,Sensors and Actuators,False
+56,CS24119,Tanishq Vilas Telute,B,5.0,15.0,11.0,12.0,18.0,,,,,,3.5,,0,31.88,3.19,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Operation Research",True
+57,CS24120,Tanushree Dishi Banait,B,16.0,25.0,4.0,16.0,,28.0,,,,,,,0,52.5,5.25,1,Operating Systems,False
+58,CS24121,Trisha Sudhakar Kawale,B,29.5,35.0,27.0,18.0,,,17.5,31.0,,,,,0,80.62,8.06,0,None,False
+59,CS24122,Twinkle Sanjay Shelwatkar,B,6.5,17.0,13.0,15.0,33.0,,,,,,,23.0,0,51.04,5.1,2,"Statistics & Probability, Operating Systems",False
+60,CS24123,Vedant Ramesh Adhau,B,16.0,14.0,8.0,17.0,,23.5,,,,,,25.5,0,50.42,5.04,2,"Object Oriented Programming, Operating Systems",False
+61,CS24124,Yashika Niraj Mandaogade,B,28.5,32.0,21.0,17.0,,36.0,,,,,,,0,75.75,7.58,0,None,False
+62,CS24125,Ashish Anil Barapatre,B,29.5,29.0,21.0,16.0,,,18.0,,,,,,0,73.75,7.38,0,None,False
+63,CS24126,Yukti Anil Agade,B,30.5,16.0,14.0,17.5,,,9.5,17.0,,,,,0,54.79,5.48,1,Operating Systems,False
+64,CS25D001,Aayesha Babu Khan,B,10.5,23.0,19.0,15.0,27.0,,,14.0,,,,,0,51.46,5.15,2,"Statistics & Probability, Basics Of Human Computer Interaction",False
+65,CS25D003,Darshan Gajanan Lahase,B,18.0,35.0,21.0,17.5,40.0,,,,,29.0,,,0,74.17,7.42,0,None,False
+66,CS25D011,Om Hemant Patil,B,16.5,29.0,22.0,16.0,33.0,,,,,25.0,,,0,65.62,6.56,0,None,False
+67,CS25D022,Shlok Krushna Kuthe,B,25.5,37.0,20.0,15.0,38.0,,,,,30.0,,,0,75.21,7.52,0,None,False
+68,CS25D024,Sumaiya Mehvish Mohd Nazeer,B,7.0,26.0,8.0,16.0,11.0,,,18.0,,,,,0,42.5,4.25,3,"Statistics & Probability, Operating Systems, Data Analysis and Visualization",False
+1,CS24127,Aashu Kishor Choudhary,C,23.0,12.0,20.0,14.5,31.0,,,23.0,,,,,0,57.5,5.75,1,Object Oriented Programming,False
+2,CS24128,Adeebh Sharad Kotangale,C,10.0,9.0,15.0,14.5,27.0,,,,,,7.0,,0,40.42,4.04,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Operation Research",False
+3,CS24129,Alisha Raju Bhaisare,C,23.5,18.0,21.0,14.0,29.0,,,27.0,,,,,0,61.04,6.1,0,None,False
+4,CS24130,Aniket Rajesh Rathod,C,13.5,9.0,13.0,14.0,21.0,,,,,,,18.0,0,42.71,4.27,3,"Statistics & Probability, Object Oriented Programming, Operating Systems",False
+5,CS24131,Anshika Ravindra Chavhan,C,20.0,21.0,31.0,18.0,33.0,,,,31.0,,,,0,71.67,7.17,0,None,False
+6,CS24132,Anushka Narendra Gadge,C,22.0,14.0,21.0,15.5,36.0,,,,,,27.0,,0,62.92,6.29,1,Object Oriented Programming,False
+7,CS24133,Anvay Atish Walde,C,6.0,11.0,8.0,12.5,14.0,,,,,,9.5,,0,30.62,3.06,5,"Statistics & Probability, Object Oriented Programming, Operating Systems, Data Analysis and Visualization, Operation Research",True
+8,CS24134,Arnav Umesh Khapekar,C,24.0,12.0,18.0,14.5,,,18.5,,,,,15.5,0,56.46,5.65,2,"Object Oriented Programming, Wireless Sensor Network",False
+9,CS24135,Ayush Manoj Parate,C,17.5,11.0,12.0,11.0,,,11.0,,,,,16.5,0,42.08,4.21,2,"Object Oriented Programming, Operating Systems",False
+10,CS24136,Bhagyashree Kashinath Nighot,C,30.0,23.0,24.0,17.0,33.0,,,,,,,,0,72.0,7.2,0,None,False
+11,CS24137,Chetan Nashik Shende,C,21.0,26.0,25.0,15.5,28.0,,,,,,,,0,65.5,6.55,0,None,False
+12,CS24138,Deepak Bhavesh Warjurkar,C,38.5,13.0,15.0,16.0,,,16.5,27.0,,,,,0,66.04,6.6,2,"Object Oriented Programming, Operating Systems",False
+13,CS24139,Devanshi Hiralal Kambhale,C,11.5,20.0,31.0,16.0,32.0,,,,23.5,,,,0,62.5,6.25,1,Statistics & Probability,False
+14,CS24140,Devesh Arvind Hate,C,24.5,23.0,29.0,16.0,33.0,,,,,,,,0,70.75,7.08,0,None,False
+15,CS24141,Diya Prakash Bambal,C,31.0,19.0,12.0,15.0,,,17.5,,,,,22.0,0,62.08,6.21,1,Operating Systems,False
+16,CS24142,Ekta Shailesh Katolkar,C,29.0,21.0,22.0,18.0,30.0,,,,,28.0,,,0,69.17,6.92,0,None,False
+17,CS24143,Gagan Rakesh Jain,C,8.0,12.0,18.0,12.5,,,1.0,,,,10.0,,0,31.25,3.12,4,"Statistics & Probability, Object Oriented Programming, Sensors and Actuators, Operation Research",True
+18,CS24144,Gaurav Sanjib Paul,C,14.5,16.0,13.0,11.0,,,13.0,,,,,17.0,0,45.21,4.52,2,"Statistics & Probability, Operating Systems",False
+19,CS24145,Gayatri Devidas Girde,C,16.0,19.0,21.0,14.0,24.0,,,,,23.0,,,0,54.58,5.46,0,None,False
+20,CS24146,Harshwardhan Mahadeorao Dhobale,C,15.5,14.0,12.0,9.5,25.0,,,,,,9.0,,0,39.38,3.94,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Operation Research",True
+21,CS24147,Jai Ravi Wadekar,C,15.5,16.0,10.0,11.5,22.0,,,,,,20.0,,0,44.38,4.44,2,"Statistics & Probability, Operating Systems",False
+22,CS24148,Kalyani Ravi Girsawale,C,23.5,23.0,16.0,15.5,33.0,,,,29.0,,,,0,64.79,6.48,0,None,False
+23,CS24149,Khushal Ananta Dhakate,C,23.0,24.0,20.0,16.0,27.0,,,,23.0,,,,0,62.08,6.21,0,None,False
+24,CS24150,Lucky Dinesh Patel,C,32.5,0.0,23.0,12.5,29.0,,,,,,,,1,54.75,5.48,1,Object Oriented Programming,False
+25,CS24151,Mahi Ajay Yadav,C,38.5,27.0,20.0,17.5,31.0,,,,30.0,,,,0,75.62,7.56,0,None,False
+26,CS24152,Manoj Ravikant Jaybhaye,C,32.5,16.0,14.0,15.5,,,7.5,,,,,,0,54.25,5.42,2,"Operating Systems, Sensors and Actuators",False
+27,CS24153,Mayank Praful Gadpal,C,35.0,11.0,18.0,15.5,,,15.0,,,,,,0,62.5,6.25,1,Object Oriented Programming,False
+28,CS24154,Mayuri Krushna Wadibhasme,C,33.0,16.0,19.0,15.5,,,13.5,,,,,,0,63.0,6.3,0,None,False
+29,CS24155,Monali Niranjan Barai,C,37.5,19.0,28.0,15.0,37.0,,,26.0,,,,,0,73.96,7.4,0,None,False
+30,CS24156,Monali Jayram Dudhe,C,33.5,13.0,18.0,15.5,21.0,,,,24.0,,,,0,58.54,5.85,1,Object Oriented Programming,False
+31,CS24157,Namanpreet Singh Narula,C,22.5,15.0,19.0,15.0,,,14.0,,24.0,,,,0,57.71,5.77,1,Object Oriented Programming,False
+32,CS24158,Nidhi Dinesh Sonkusre,C,37.5,31.0,25.0,14.5,,,17.0,,,,,,0,78.25,7.82,0,None,False
+33,CS24159,Ojas Nitin Shende,C,32.5,17.0,8.0,15.5,,19.5,,,,,16.0,,0,51.67,5.17,1,Operating Systems,False
+34,CS24160,Parth Manoj Gawande,C,38.0,19.0,12.0,12.5,30.0,,,,,,,,0,62.0,6.2,1,Operating Systems,False
+35,CS24161,Pavan Dharmaraj Lahabar,C,16.5,7.0,8.0,8.5,,,4.5,,,,,5.5,0,26.25,2.62,4,"Object Oriented Programming, Operating Systems, Sensors and Actuators, Wireless Sensor Network",True
+36,CS24162,Prajwal Prashant Katkar,C,36.5,22.0,19.0,14.5,,,17.5,,,,,,0,70.75,7.08,0,None,False
+37,CS24163,Pranju Anand Gajbhiye,C,38.5,16.0,19.0,15.0,25.0,,,29.0,,,,,0,65.62,6.56,0,None,False
+38,CS24164,Purval Chore,C,19.0,21.0,22.0,15.5,,,13.0,23.0,,,,,0,59.17,5.92,0,None,False
+39,CS24165,Riddhi Sanjay Buradkar,C,18.5,10.0,9.0,13.5,16.0,,,,,,20.0,,0,41.88,4.19,2,"Object Oriented Programming, Operating Systems",False
+40,CS24166,Rohit Viju Selote,C,28.5,28.0,13.0,11.0,,,9.5,,,,,,0,55.25,5.52,1,Operating Systems,False
+41,CS24167,Roma Zarin Mohammad Aslam Ansari,C,11.0,19.0,21.0,14.5,,,8.5,,,,20.0,,0,48.75,4.88,1,Statistics & Probability,False
+42,CS24168,Rutuja Satish Masharkar,C,28.0,21.0,17.0,17.5,,,18.0,,20.0,,,,0,65.42,6.54,0,None,False
+43,CS24169,Sahil Changdeo Karkade,C,16.0,12.0,12.0,17.0,27.0,,,,,,,0.0,1,42.08,4.21,3,"Object Oriented Programming, Operating Systems, Wireless Sensor Network",False
+44,CS24170,Sahili Prakash Raut,C,24.0,11.0,16.0,10.0,,,10.0,,,17.0,,,0,45.0,4.5,1,Object Oriented Programming,False
+45,CS24171,Saloni Sanjay Bhakte,C,37.0,31.0,28.0,18.0,38.0,,,29.0,,,,,0,82.92,8.29,0,None,False
+46,CS24172,Sarthak Ramesh Lokhande,C,19.0,15.5,13.0,14.0,,,14.0,,,,,,0,51.75,5.18,2,"Object Oriented Programming, Operating Systems",False
+47,CS24173,Sawan Prakash Chavhan,C,15.5,13.0,12.0,11.0,,,7.5,,,,16.0,,0,38.96,3.9,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Sensors and Actuators",True
+48,CS24174,Sheikh Arman Farhat,C,12.0,16.0,8.0,13.5,,,2.0,,,,,,0,33.5,3.35,3,"Statistics & Probability, Operating Systems, Sensors and Actuators",True
+49,CS24175,Shreya Suresh Meshram,C,24.0,15.0,14.0,15.0,21.0,,,,,,8.0,,0,46.67,4.67,3,"Object Oriented Programming, Operating Systems, Operation Research",False
+50,CS24176,Shruti Rakesh Tiwari,C,25.0,15.5,14.0,11.5,23.0,,,,,,,4.0,0,43.54,4.35,3,"Object Oriented Programming, Operating Systems, Wireless Sensor Network",False
+51,CS24177,Shubham Satender Mahto,C,29.0,18.0,13.0,14.0,34.0,,,19.0,,,,,0,58.75,5.88,1,Operating Systems,False
+52,CS24178,Siddhi Mukesh Nikhare,C,20.5,11.0,12.0,14.5,15.0,,,,,,3.5,,0,37.92,3.79,4,"Object Oriented Programming, Operating Systems, Data Analysis and Visualization, Operation Research",True
+53,CS24179,Suhani Madhukar Hedau,C,24.0,28.0,23.0,16.5,,,15.5,,,,16.0,,0,64.58,6.46,0,None,False
+54,CS24180,Suraj Raju Gunjkar,C,19.0,0.0,23.0,13.0,22.0,,,,,,,,1,45.0,4.5,1,Object Oriented Programming,False
+55,CS24181,Tanushri Kishor Dewase,C,31.0,17.0,22.0,14.5,,,12.5,,27.0,,,,0,62.92,6.29,0,None,False
+56,CS24182,Trisha Suresh Verma,C,35.5,29.0,20.0,18.5,37.0,,,,,,,,0,79.25,7.92,0,None,False
+57,CS24183,Twinkle Shiv Kumar Soni,C,37.0,18.0,23.0,17.0,36.0,,,,27.5,,,,0,73.12,7.31,0,None,False
+58,CS24184,Vaibhavi Pravin Nandurkar,C,32.5,25.0,18.0,16.5,37.0,,,,27.0,,,,0,71.88,7.19,0,None,False
+59,CS24185,Vatsal Rajesh Maske,C,35.5,33.0,23.0,17.5,37.0,,,,25.0,,,,0,78.54,7.85,0,None,False
+60,CS24186,Vedant Rajkumar Mankar,C,32.5,23.0,23.0,16.0,34.0,,,,22.5,,,,0,69.58,6.96,0,None,False
+61,CS24187,Vedant Ajay Warade,C,9.0,16.0,19.0,13.0,,,7.0,,,18.0,,,0,42.5,4.25,2,"Statistics & Probability, Sensors and Actuators",False
+62,CS24188,Yogesh Jaganrao Kadwe,C,27.5,20.0,15.0,12.5,,32.5,,,,,,,0,60.0,6.0,1,Operating Systems,False
+63,CS24189,Yogita Shankar Thakre,C,14.0,7.0,16.0,12.0,,,13.0,,,,17.0,,0,43.33,4.33,2,"Statistics & Probability, Object Oriented Programming",False
+64,CS25D005,Dnyanvi Sagane,C,21.0,34.0,21.0,13.5,38.0,,,33.0,,,,,0,72.5,7.25,0,None,False
+65,CS25D007,Gaurav Wararkar,C,32.5,32.0,26.0,14.0,37.0,,,,27.5,,,,0,76.25,7.62,0,None,False
+66,CS25D014,Parvani Kale,C,19.0,24.0,20.0,14.0,,,17.5,,27.0,,,,0,63.75,6.38,0,None,False
+67,CS25D016,Pranav Madhavkar,C,9.0,21.0,13.0,13.5,23.0,,,,22.5,,,,0,48.12,4.81,2,"Statistics & Probability, Operating Systems",False
+68,CS25D021,Shivam Dipte,C,21.0,29.0,19.0,16.0,29.0,,,,,33.0,,,0,67.92,6.79,0,None,False
+1,CS24190,Aditi Ajay Sharma,D,37.0,34.0,22.0,16.5,39.0,,,,30.0,,,,0,81.25,8.12,0,None,False
+2,CS24191,Aditya Raju Deotare,D,20.5,26.0,22.0,12.0,,25.5,,,,,,26.5,0,60.21,6.02,0,None,False
+3,CS24192,Adwait Nitin Bhope,D,7.5,27.0,20.0,15.5,35.0,,,,,21.0,,,0,58.96,5.9,1,Statistics & Probability,False
+4,CS24193,Aniruddha Naresh Shastrakar,D,30.5,26.0,16.0,16.0,37.0,,,,,,,,0,70.75,7.08,0,None,False
+5,CS24194,Anushka Ashok Shukla,D,26.5,27.0,13.0,15.0,37.0,,,,23.0,,,,0,65.21,6.52,1,Operating Systems,False
+6,CS24195,Anushka Bhagwan Moreshiya,D,31.0,28.0,19.0,11.5,33.0,,,,,21.0,,,0,64.58,6.46,0,None,False
+7,CS24197,Ashim Antonia Martin Philips,D,28.5,17.0,16.0,13.5,18.0,,,,,,,19.0,0,52.29,5.23,0,None,False
+8,CS24199,Ayushi Narendra Dhote,D,35.5,31.0,30.0,19.0,,33.0,,,,,,38.0,0,85.62,8.56,0,None,False
+9,CS24200,Bhumika Gopal Pache,D,37.5,26.0,23.0,18.0,,30.5,,29.0,,,,,0,75.83,7.58,0,None,False
+10,CS24201,Chetan Chandresh Kewat,D,20.0,20.0,12.0,15.5,28.0,,,,,,,,0,55.5,5.55,1,Operating Systems,False
+11,CS24202,Debjit B Talukdar,D,24.0,29.0,19.0,13.5,27.0,,,,,,,,0,63.0,6.3,0,None,False
+12,CS24203,Divyani Devrao Karadbhajne,D,17.5,34.0,29.0,14.5,,33.5,,,,,,34.5,0,73.96,7.4,0,None,False
+13,CS24204,Gargi Vipinkumar Makhe,D,19.0,26.0,16.0,15.5,,,14.5,,,,,,0,60.5,6.05,0,None,False
+14,CS24205,Hardik Tarun Patle,D,29.0,22.0,13.0,18.0,30.0,,,,,,,,0,65.0,6.5,1,Operating Systems,False
+15,CS24206,Harsh Govinda Paunikar,D,19.0,18.0,6.0,14.0,28.0,,,,,,,15.5,0,47.71,4.77,2,"Operating Systems, Wireless Sensor Network",False
+16,CS24207,Harsh Gajanan Thakre,D,7.0,14.0,9.0,14.5,18.0,,,,,,,,0,38.5,3.85,3,"Statistics & Probability, Object Oriented Programming, Operating Systems",True
+17,CS24208,Harshwardhan Ajay Shirke,D,12.0,11.0,4.0,10.0,16.0,,,,,,,8.5,0,29.79,2.98,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Wireless Sensor Network",True
+18,CS24209,Himanshi Motiram Dalal,D,29.0,26.0,21.0,16.5,36.0,,,,,,32.0,,0,73.75,7.38,0,None,False
+19,CS24210,Kaneeshka Pranay Nikose,D,6.5,8.0,0.0,0.0,,,0.0,,,,0.0,,3,6.04,0.6,6,"Statistics & Probability, Object Oriented Programming, Operating Systems, Business Communication, Sensors and Actuators, Operation Research",True
+20,CS24211,Krutik Ravindra Hirudkar,D,16.5,22.0,16.0,14.5,34.0,,,,,,,,0,58.75,5.88,0,None,False
+21,CS24212,Manthan Ramkrishna Kubade,D,16.0,19.0,12.0,13.0,29.0,,,,,,,,0,51.0,5.1,1,Operating Systems,False
+22,CS24213,Mishkat Ahmad Ejaz Ahmad,D,29.5,21.0,23.0,13.5,23.0,,,,,,,,0,61.75,6.18,0,None,False
+23,CS24214,Mohammad Maviya Khan,D,33.0,24.0,6.0,18.0,23.0,,,18.0,,,,,0,58.33,5.83,1,Operating Systems,False
+24,CS24215,Nidhi Vinod Rakshak,D,19.0,16.0,24.0,13.0,,25.0,,,,,,,0,55.0,5.5,0,None,False
+25,CS24216,Om Rupesh Lade,D,17.0,11.0,10.0,14.5,,13.0,,,,23.0,,,0,42.92,4.29,3,"Object Oriented Programming, Operating Systems, Fundamentals of Accounting",False
+26,CS24217,Palak Kushalchand Vij,D,18.0,28.0,19.0,14.0,27.0,,,24.0,,,,,0,60.0,6.0,0,None,False
+27,CS24218,Palak Rajendra Dule,D,26.5,25.0,13.0,16.0,,28.0,,,,23.0,,,0,61.46,6.15,1,Operating Systems,False
+28,CS24219,Payal Murlidhar Limje,D,32.0,17.0,23.0,13.5,,20.5,,29.0,,,,,0,61.88,6.19,0,None,False
+29,CS24220,Piyush Pramod Mishra,D,7.0,23.0,19.0,13.5,,8.5,,,,,,24.0,0,45.21,4.52,2,"Statistics & Probability, Fundamentals of Accounting",False
+30,CS24221,Prachi Mahendra Bhagat,D,15.5,29.0,21.0,15.5,38.0,,,,,,27.0,,0,67.29,6.73,1,Statistics & Probability,False
+31,CS24222,Prapti Santosh Krishnapurkar,D,16.5,16.0,8.0,16.0,,20.0,,,,25.0,,,0,48.96,4.9,1,Operating Systems,False
+32,CS24223,Pratiksha Choudhary,D,25.0,37.0,31.0,16.0,36.0,,,,28.0,,,,0,78.75,7.88,0,None,False
+33,CS24224,Purva Tulshiram Bonsule,D,7.5,15.0,10.0,12.0,,,4.0,,,,,16.0,0,33.54,3.35,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Sensors and Actuators",True
+34,CS24225,Pushkar Tajesh Ramteke,D,17.0,22.0,9.0,14.5,14.0,,,,,,,23.0,0,47.5,4.75,2,"Operating Systems, Data Analysis and Visualization",False
+35,CS24226,Rahul Raju Kumawat,D,8.0,20.0,14.0,16.0,,17.5,,,,23.0,,,0,47.71,4.77,2,"Statistics & Probability, Operating Systems",False
+36,CS24227,Rishita Virendra Turrey,D,31.0,21.0,9.0,15.0,29.0,,,,,,,,0,60.0,6.0,1,Operating Systems,False
+37,CS24228,Rohit Vitthal Tingane,D,4.5,10.0,14.0,15.0,1.0,,,,,,,,0,29.75,2.98,4,"Statistics & Probability, Object Oriented Programming, Operating Systems, Data Analysis and Visualization",True
+38,CS24229,Sahil Chintaman Domke,D,10.5,17.0,9.0,17.0,18.0,,,,,,23.0,,0,46.46,4.65,2,"Statistics & Probability, Operating Systems",False
+39,CS24230,Sakshi Suresh Mendhe,D,38.5,39.0,22.0,20.0,39.0,,,,33.0,,,,0,88.12,8.81,0,None,False
+40,CS24231,Sakshi Vijay Kalbande,D,12.0,29.0,22.0,16.5,,,19.0,,,,,,0,67.0,6.7,1,Statistics & Probability,False
+41,CS24232,Samidha Ramdas Suryawanshi,D,28.5,28.0,24.0,14.5,35.0,,,,33.5,,,,0,74.17,7.42,0,None,False
+42,CS24233,Samruddhi Sunil Sur,D,31.0,26.0,26.0,16.0,32.0,,,,,,35.0,,0,75.83,7.58,0,None,False
+43,CS24234,Saniya Purushottam Sorate,D,12.0,21.0,9.0,14.5,,,8.0,,,,,21.0,0,45.0,4.5,2,"Statistics & Probability, Operating Systems",False
+44,CS24235,Sanyukta Satish Futane,D,23.5,35.0,22.0,15.0,37.0,,,,,,,,0,73.75,7.38,0,None,False
+45,CS24236,Sara Satish Kothare,D,13.0,27.0,16.0,13.5,,,13.5,,,22.0,,,0,55.0,5.5,1,Statistics & Probability,False
+46,CS24237,Shantanu Mohan Zilpe,D,28.5,30.0,20.0,14.0,31.0,,,25.0,,,,,0,67.71,6.77,0,None,False
+47,CS24238,Shubham Sunil Rai,D,22.5,17.0,16.0,16.0,,22.0,,,,,30.0,,0,58.12,5.81,0,None,False
+48,CS24239,Siddhi Raviraj Mate,D,11.5,20.0,12.0,12.0,18.0,,,,,,,16.0,0,42.29,4.23,2,"Statistics & Probability, Operating Systems",False
+49,CS24240,Soumya Shashikant Ingle,D,13.0,10.0,12.0,15.0,25.0,,,,,,,,0,45.0,4.5,3,"Statistics & Probability, Object Oriented Programming, Operating Systems",False
+50,CS24241,Sujal Praful Wandhare,D,24.0,36.0,11.0,12.5,,,18.5,,,,,,0,66.5,6.65,1,Operating Systems,False
+51,CS24242,Sumit Krushna Patil,D,34.0,23.0,11.0,9.5,21.0,,,,,,,,0,54.0,5.4,1,Operating Systems,False
+52,CS24243,Suyash Dipchand Nandeshwar,D,25.0,29.0,20.0,17.5,,,16.5,,,22.0,,,0,68.33,6.83,0,None,False
+53,CS24244,Unnati Manohar Waghe,D,30.5,18.0,19.0,17.0,,31.0,,,,,,,0,66.25,6.62,0,None,False
+54,CS24245,Utkarsh Jinendra Jain,D,22.5,23.0,12.0,16.0,,,12.0,,,18.0,,,0,54.79,5.48,1,Operating Systems,False
+55,CS24246,Vaishnavi Jitendra Dahale,D,19.0,31.0,17.0,17.5,29.0,,,,26.5,,,,0,65.62,6.56,0,None,False
+56,CS24247,Vidya Ravindra Wadhai,D,31.5,21.0,17.0,16.0,26.0,,,,,,,,0,63.75,6.38,0,None,False
+57,CS24248,Sarthak Banduji Kukde,D,23.0,16.0,22.0,16.0,26.0,,,,,,,,0,59.5,5.95,0,None,False
+58,CS24249,Prajwalit Mankar,D,25.0,23.0,26.0,14.5,,,18.5,22.0,,,,,0,67.5,6.75,0,None,False
+59,CS24250,Sahaj Khemraj Ramteke,D,9.5,10.0,13.0,13.0,,32.0,,,,,,,0,45.25,4.53,3,"Statistics & Probability, Object Oriented Programming, Operating Systems",False
+60,CS24251,Rutuja Dhanraj Moharkar,D,17.0,20.0,17.0,12.0,,,1.5,21.0,,,,,0,42.5,4.25,1,Sensors and Actuators,False
+61,CS25D002,Avni Atul Meshram,D,14.0,33.0,16.0,11.0,,26.5,,22.0,,,,,0,55.62,5.56,1,Statistics & Probability,False
+62,CS25D008,Mithilesh Ashok Nikam,D,16.0,38.0,23.0,14.5,,30.5,,,,30.0,,,0,69.38,6.94,0,None,False
+63,CS25D009,Mohammad Zeeshan Mohammad Sha,D,11.0,22.0,22.0,12.0,25.0,,,23.0,,,,,0,52.92,5.29,1,Statistics & Probability,False
+64,CS25D010,Muneebur Rahman Mohsinur Rahman,D,27.0,35.0,20.0,11.0,22.0,,,18.0,,,,,0,60.0,6.0,0,None,False
+65,CS25D015,Pranali Gajanan Barsagade,D,12.0,33.0,20.0,14.0,29.0,,,27.0,,,,,0,62.08,6.21,1,Statistics & Probability,False
+66,CS25D020,Sheikh Nida Fatema Javed,D,10.0,25.0,16.0,13.0,15.0,,,29.0,,,,,0,50.42,5.04,2,"Statistics & Probability, Data Analysis and Visualization",False
+67,CS25D023,Shubham Siddheshwar Kale,D,7.5,32.0,23.0,12.0,28.0,,,,,23.0,,,0,57.29,5.73,1,Statistics & Probability,False
+68,CS25D026,Yogeshwar Balaji Kadam,D,6.0,21.0,16.0,13.5,,16.5,,,,18.0,,,0,43.54,4.35,1,Statistics & Probability,False

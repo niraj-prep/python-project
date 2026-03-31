@@ -1,0 +1,13 @@
+Subject,Max_Marks,Students_With_Marks,Average_Percentage,Below_40_Count,Below_40_Percentage,Absent_Count
+Operation Research,40,38,34.87,20,52.63,3
+Operating Systems,40,273,39.92,119,43.59,4
+Wireless Sensor Network,40,40,45.09,13,32.5,1
+Statistics & Probability,40,273,49.81,88,32.23,2
+Object Oriented Programming,40,273,48.67,84,30.77,5
+Sensors and Actuators,20,100,57.3,23,23.0,0
+Fundamentals of Accounting,40,38,59.47,5,13.16,0
+Data Analysis and Visualization,40,135,68.96,9,6.67,2
+Basics Of Human Computer Interaction,40,40,60.44,2,5.0,0
+Game Development Using Python,40,41,55.21,2,4.88,1
+Business Communication,20,273,69.87,8,2.93,3
+Electric Vehicle,40,35,63.46,1,2.86,0
